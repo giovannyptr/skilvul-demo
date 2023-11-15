@@ -1,3 +1,5 @@
 const nameUser = "Nina"
 
-onsole.log("Haii" + nameUser)
+const color = "red"
+
+console.log("Haii" + nameUser)
