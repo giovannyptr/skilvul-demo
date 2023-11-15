@@ -1,6 +1,5 @@
 const nameUser = "Nina"
 
-const color = "red"
 
 const size = 15
 
